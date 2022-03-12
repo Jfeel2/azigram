@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "212657138048",
+    "project_id": "dietdog-89e61",
+    "storage_bucket": "dietdog-89e61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212657138048:android:d5c43b4c1669de15fef965",
+        "android_client_info": {
+          "package_name": "com.example.dietdog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212657138048-hf148acqfjpl93ago7ghr80rc9ahkc9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7wcWpFXhsfu0FJxXlL7M4QtC5PL5iLEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212657138048-hf148acqfjpl93ago7ghr80rc9ahkc9k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "212657138048-l1j365ass57uc98jaunm8r86un9ahucc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dependon.dietdog"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
